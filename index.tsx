@@ -4,6 +4,6 @@ import * as ReactDOM from "react-dom";
 import { Button } from "./Button";
 
 ReactDOM.render(
-    <Button />,
+    <Button text="Hello"/>,
     document.getElementById("example")
 );
